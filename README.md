@@ -5,6 +5,7 @@ In this repository there are different algorithms whose sole purpose is to pract
 The algorithms are:
 
 - Symmetric Difference
+- Bubble sort
 
 # Ejercicios de Programación
 
@@ -13,3 +14,4 @@ En este repositiorio se encuentran distintos algoritmos cuyo unico proposito es 
 Los algoritmos que se tienen son los siguientes: 
 
 - Direferencia simetrica
+- Metodo burbuja
