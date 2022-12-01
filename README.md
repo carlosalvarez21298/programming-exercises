@@ -6,6 +6,7 @@ The algorithms are:
 
 - Symmetric Difference
 - Bubble sort
+- Selection sort
 
 # Ejercicios de Programación
 
@@ -15,3 +16,4 @@ Los algoritmos que se tienen son los siguientes:
 
 - Direferencia simetrica
 - Metodo burbuja
+- Metodo de ordenación por selección
