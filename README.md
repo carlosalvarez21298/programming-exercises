@@ -7,7 +7,7 @@ The algorithms are:
 - Symmetric Difference
 - Bubble sort
 - Selection sort
--Recursion exercises (recursive functions)
+- Recursion exercises (recursive functions)
 
 # Ejercicios de Programación
 
