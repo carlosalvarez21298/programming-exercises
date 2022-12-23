@@ -7,6 +7,7 @@ The algorithms are:
 - Symmetric Difference
 - Bubble sort
 - Selection sort
+-Recursion exercises (recursive functions)
 
 # Ejercicios de Programación
 
@@ -17,3 +18,4 @@ Los algoritmos que se tienen son los siguientes:
 - Direferencia simetrica
 - Metodo burbuja
 - Metodo de ordenación por selección
+- Ejercicios de recursion (funciones recursivas)
